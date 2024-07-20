@@ -1,1 +1,1 @@
-https://github-detector-988967.netlify.app/
+https://githubdetector-c055f8.netlify.app/
